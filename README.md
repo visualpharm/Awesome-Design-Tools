@@ -55,6 +55,7 @@ If you need to make a user flow diagram, user flow map or a sitemap, take a look
 * [ProtoPie](https://www.protopie.io/) — piece hi-fi interactions together, build sensor-aided prototypes and share your amazing creations in a matter of minutes.
 * [Proto.io](https://proto.io/) — a tool to create fully-interactive high-fidelity prototypes that look and work exactly like your app should.
 * [UXPin](https://www.uxpin.com/) — build prototypes that feel real, with powers of code components, logic, states and design systems.
+* [Axure](https://www.axure.com/) — quick interactive prototypes with logic and states. More powerful, but less visually attractive than UXpin.
 
 You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned in UI Design Tools section.
 
@@ -67,6 +68,7 @@ You can also do prototype with Figma, Adobe XD, InVision Studio, that mentioned 
 * [Figma](https://www.figma.com/) — a design tool based in the browser, that allows to design and prototype with real-time collaboration.
 * [Invision Studio](https://www.invisionapp.com/studio) — combines design, prototyping, and collaboration into one harmonious workflow. 
 * [Sketch](https://www.sketchapp.com/) — it's a design toolkit built for Mac.
+* [Lunacy](https://www.lunacyapp.com/) — Sketch's counterpart for Windows.
 * [Vectr](https://vectr.com/) — a simple web and desktop cross-platform tool to create vector graphics easily and intuitively.
 
 ### Design Feedback Tools
@@ -160,6 +162,7 @@ Principle, Framer, Invision Studio, Flinto are also among UI & UX animation apps
 ### Design to Code Tools
 * [Webflow](https://webflow.com/) — build responsive websites in your browser, then host with us or export your code to host wherever. 
 * [Tilda](https://tilda.cc/) — create a website, landing page or online store for free with the help of Tilda modules and publish it on the same day.
+* [Readymag](https://readymag.com/) - website and landing page constructor. Similar to Tilda.
 * [STUDIO](https://studio.design/) — design from scratch, collaborate in real time and publish websites.
 
 ### Reference & Inspiration
